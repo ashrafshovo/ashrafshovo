@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React-Native,Flutter,Android App Devleopment 
-- 🌱 I’m currently learning MERN,Django,Python ,Php
+- 🔭 I’m currently working on Laravel 
+- 🌱 I’m currently learning Php, NodeJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
